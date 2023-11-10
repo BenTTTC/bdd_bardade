@@ -11,6 +11,6 @@ package fr.insa.marc.bdd2.bdd_bardade;
 public class Bdd_bardade {
 
     public static void main(String[] args) {
-        System.out.println("lol");
+        System.out.println("jdbzedz");
     }
 }
